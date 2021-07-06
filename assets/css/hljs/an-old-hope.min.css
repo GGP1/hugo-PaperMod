@@ -11,7 +11,7 @@
 .hljs-tag,
 .hljs-template-variable,
 .hljs-variable {
-    color: #eb3c54
+    color: #eb3c54;
 }
 
 .hljs-built_in,
@@ -21,11 +21,11 @@
 .hljs-meta,
 .hljs-number,
 .hljs-type {
-    color: #e7ce56
+    color: #e7ce56;
 }
 
 .hljs-attribute {
-    color: #ee7c2b
+    color: #ee7c2b;
 }
 
 .hljs-addition,
@@ -54,13 +54,13 @@
     overflow-x: auto;
     background: #1c1d21;
     color: #c0c5ce;
-    padding: .5em
+    padding: .5em;
 }
 
 .hljs-emphasis {
-    font-style: italic
+    font-style: italic;
 }
 
 .hljs-strong {
-    font-weight: 700
+    font-weight: 700;
 }
