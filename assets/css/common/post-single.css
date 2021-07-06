@@ -220,6 +220,7 @@
 .post-content blockquote {
     margin: 20px 0;
     padding: 0 14px;
+    background-color: rgba(185, 182, 182, 0.151);
     border-inline-start: 3px solid var(--primary)
 }
 
@@ -273,12 +274,12 @@
 }
 
 .toc details summary {
-    cursor: zoom-in;
+    cursor: pointer;
     margin-inline-start: 20px
 }
 
 .toc details[open] summary {
-    cursor: zoom-out
+    cursor: pointer
 }
 
 .toc .details {

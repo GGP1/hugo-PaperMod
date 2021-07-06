@@ -1,6 +1,6 @@
 .hljs-comment,
 .hljs-quote {
-    color: #b6b18b
+    color: #83817a
 }
 
 .hljs-deletion,
@@ -20,7 +20,6 @@
 .hljs-literal,
 .hljs-meta,
 .hljs-number,
-.hljs-params,
 .hljs-type {
     color: #e7ce56
 }
@@ -33,17 +32,21 @@
 .hljs-bullet,
 .hljs-string,
 .hljs-symbol {
-    color: #4fb4d7
+    color: #ffe76d
+}
+
+.hljs-param {
+    color: snow;
 }
 
 .hljs-section,
 .hljs-title {
-    color: #78bb65
+    color: #79b7ff
 }
 
 .hljs-keyword,
 .hljs-selector-tag {
-    color: #b45ea4
+    color: rgb(198, 120, 221)
 }
 
 .hljs {
